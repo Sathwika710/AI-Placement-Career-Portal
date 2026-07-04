@@ -1,6 +1,6 @@
-John Doe
-Email: john.doe@email.com
-Phone: +1 555-0199-283
+Aarav Sharma
+Email: aarav.sharma@email.com
+Phone: +91 98765 01992
 Education: B.Tech in Computer Science and Engineering, 2024.
 
 Experience:

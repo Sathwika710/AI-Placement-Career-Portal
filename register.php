@@ -74,12 +74,12 @@ include 'includes/header.php';
         <form method="POST" action="register.php">
             <div class="form-group">
                 <label for="name">Full Name / Company Name</label>
-                <input type="text" name="name" id="name" class="form-control" placeholder="John Doe" required>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Aarav Sharma" required>
             </div>
             
             <div class="form-group">
                 <label for="email">Email Address</label>
-                <input type="email" name="email" id="email" class="form-control" placeholder="john@domain.com" required>
+                <input type="email" name="email" id="email" class="form-control" placeholder="aarav@domain.com" required>
             </div>
             
             <div class="form-group">
