@@ -1,0 +1,11 @@
+John Doe
+Email: john.doe@email.com
+Phone: +1 555-0199-283
+Education: B.Tech in Computer Science and Engineering, 2024.
+
+Experience:
+- Intern Software Engineer at TechLabs (6 months): Worked on Backend development.
+- Junior Developer at WebSolutions (1 year): Developed websites using PHP, Javascript, and MySQL.
+
+Skills:
+Java, Python, Spring Boot, MySQL, HTML, CSS, JavaScript, Git, Docker, PHP, C++
